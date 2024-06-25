@@ -1,2 +1,0 @@
-# Chemdice
- doc chemical dice
